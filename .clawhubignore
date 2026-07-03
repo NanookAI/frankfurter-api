@@ -1,0 +1,15 @@
+# Excluded when publishing to ClawHub.
+# Keep the published listing to the skill itself plus the README.
+.git/
+.gitignore
+.skillignore
+.claude/
+CLAUDE.md
+AGENTS.md
+*-workspace/
+evals/
+feedback.json
+*.skill
+*.zip
+*.log
+tmp/
