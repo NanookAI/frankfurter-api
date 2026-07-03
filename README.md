@@ -41,7 +41,7 @@ This repository is a Claude Code plugin marketplace. Inside Claude Code, run:
 
 ```
 /plugin marketplace add NanookAI/frankfurter-api
-/plugin install frankfurter-api@kader-skills
+/plugin install currencies@frankfurter-api-skills
 ```
 
 The skill is then available in every project, and `/plugin marketplace update`

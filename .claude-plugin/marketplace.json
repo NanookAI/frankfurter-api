@@ -1,18 +1,18 @@
 {
-  "name": "kader-skills",
+  "name": "frankfurter-api-skills",
   "owner": {
-    "name": "Kader",
+    "name": "NanookAI",
     "email": "app030242@gmail.com"
   },
   "description": "Skills for AI agents, starting with the Frankfurter exchange rate API",
   "plugins": [
     {
-      "name": "frankfurter-api",
+      "name": "currencies",
       "source": "./",
       "description": "Teaches AI agents to fetch exchange rates and convert currencies with the free Frankfurter API (no API key required)",
       "version": "1.0.0",
       "author": {
-        "name": "Kader"
+        "name": "NanookAI"
       },
       "homepage": "https://github.com/NanookAI/frankfurter-api",
       "category": "finance",

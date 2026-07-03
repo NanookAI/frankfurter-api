@@ -1,10 +1,10 @@
 {
-  "name": "frankfurter-api",
-  "displayName": "Frankfurter API",
+  "name": "currencies",
+  "displayName": "Currencies (Frankfurter API)",
   "description": "Teaches AI agents to fetch exchange rates and convert currencies with the free Frankfurter API (no API key required)",
   "version": "1.0.0",
   "author": {
-    "name": "Kader",
+    "name": "NanookAI",
     "email": "app030242@gmail.com"
   },
   "homepage": "https://github.com/NanookAI/frankfurter-api",
