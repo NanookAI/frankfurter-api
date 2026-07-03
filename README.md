@@ -37,11 +37,12 @@ skills/
 
 ### Claude Code (plugin marketplace — recommended)
 
-This repository is a Claude Code plugin marketplace. Inside Claude Code, run:
+This plugin is distributed through the [NanookAI/skills](https://github.com/NanookAI/skills)
+marketplace. Inside Claude Code, run:
 
 ```
-/plugin marketplace add NanookAI/frankfurter-api
-/plugin install currencies@frankfurter-api-skills
+/plugin marketplace add NanookAI/skills
+/plugin install frankfurter-api@nanookai-skills
 ```
 
 The skill is then available in every project, and `/plugin marketplace update`

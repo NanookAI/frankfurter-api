@@ -1,6 +1,6 @@
 {
-  "name": "currencies",
-  "displayName": "Currencies (Frankfurter API)",
+  "name": "frankfurter-api",
+  "displayName": "Frankfurter API",
   "description": "Teaches AI agents to fetch exchange rates and convert currencies with the free Frankfurter API (no API key required)",
   "version": "1.0.0",
   "author": {
