@@ -35,6 +35,18 @@ skills/
 
 ## Installation
 
+### Claude Code (plugin marketplace — recommended)
+
+This repository is a Claude Code plugin marketplace. Inside Claude Code, run:
+
+```
+/plugin marketplace add NanookAI/frankfurter-api
+/plugin install frankfurter-api@kader-skills
+```
+
+The skill is then available in every project, and `/plugin marketplace update`
+picks up new versions.
+
 ### Claude Code (per-project)
 
 Copy the skill folder into your project's `.claude/skills/` directory:

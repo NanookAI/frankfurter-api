@@ -4,6 +4,7 @@
 .gitignore
 .skillignore
 .claude/
+.claude-plugin/
 CLAUDE.md
 AGENTS.md
 *-workspace/

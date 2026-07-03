@@ -5,6 +5,7 @@
 .clawhubignore
 .skillignore
 .claude/
+.claude-plugin/
 AGENTS.md
 CLAUDE.md
 README.md
